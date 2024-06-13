@@ -25,9 +25,15 @@ pipeline {
 
             }
         }
-        stage('Deploy') {
+        stage('Read JSON') {
             steps {
-                echo 'Deploying....'
+                script {
+                    def packageJson = readJSON file: 'package.json'
+                    def packageVersion = packageJSON.version
+                    echo "${packageJSONVersion}"
+                }
+     }
+}
             }
         }
     }
