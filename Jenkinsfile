@@ -32,8 +32,6 @@ pipeline {
                     def packageVersion = packageJSON.version
                     echo "${packageJSONVersion}"
                 }
-     }
-}
             }
         }
     }
