@@ -17,9 +17,13 @@ pipeline {
                 echo 'CODE QUALITY COMPLETED'
             }
         }
-        stage('Test') {
+        stage('Build LMS') {
             steps {
-                echo 'Testing..'
+                echo 'Build LMS'
+                sh 'echo pwd'
+                sh 'cd webapp && npm install && npm build'
+                echo 'Build Complete'
+
             }
         }
         stage('Deploy') {
