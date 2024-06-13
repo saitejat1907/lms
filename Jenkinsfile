@@ -20,7 +20,7 @@ pipeline {
         stage('Build LMS') {
             steps {
                 echo 'Build LMS'
-                sh 'cd webapp && npm install && npm build'
+                sh 'cd webapp && npm install && npm run build'
                 echo 'Build Complete'
 
             }
