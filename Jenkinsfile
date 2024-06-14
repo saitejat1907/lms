@@ -46,7 +46,7 @@ pipeline {
                     echo "${packageJSONVersion}"
                     sh "curl -u admin:lms12345 -X GET \'http://20.173.96.114:8081/repository/lms/lms-${packageJSONVersion}.zip\' --output lms-'${packageJSONVersion}'.zip"
                     sh 'sudo rm -rf /var/www/html/*'
-                    sh "sudo unzip -o lms-'${packageJSONVersion}'.zip"
+                    sh "sudo unzip -o webapp/lms-'${packageJSONVersion}'.zip"
                     sh "sudo cp -r webapp/dist/* /var/www/html"
                     echo 'Completed LMS Deployment'
                  }
