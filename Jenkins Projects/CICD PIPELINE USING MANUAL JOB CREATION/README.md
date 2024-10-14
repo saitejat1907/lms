@@ -5,7 +5,7 @@ This project demonstrates the implementation of a CI/CD pipeline using Jenkins w
 
 ---
 
-**Documentation**: A Word document detailing the step-by-step approach to build the project and the results can be found [here](https://github.com/saitejat1907/lms/result.docx).
+**Documentation**: A Word document detailing the step-by-step approach to build the project and the results can be found [here](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/CICD%20PIPELINE%20USING%20JENKINS%20WITH%20MANUAL%20JOBS%20CREATION.docx).
 
 ## Features
 - **Webhook-Triggered Builds**: Automatically triggers builds in Jenkins whenever code is pushed to the GitHub repository.
@@ -60,17 +60,17 @@ Feel free to add any images or diagrams that better illustrate the pipeline and 
 
 - **Jenkins Pipeline**:
 
-  ![Jenkins Pipeline Diagram](URL_TO_JENKINS_PIPELINE_IMAGE)
+  ![Jenkins Pipeline Diagram](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/pipeline1.png)
 
 - **Commands used and Results**:
 
-  ![CI/CD Architecture](URL_TO_ARCHITECTURE_IMAGE)
+  ![Commands for sonarqube](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/Picture1.png)
 
-  ![CI/CD Architecture](URL_TO_ARCHITECTURE_IMAGE)
+  ![email notification](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/Picture2.png)
 
-  ![CI/CD Architecture](URL_TO_ARCHITECTURE_IMAGE)
+  ![Nexus repo Upload](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/Picture3.png)
 
-  ![CI/CD Architecture](URL_TO_ARCHITECTURE_IMAGE)
+  ![Nexus Repo Download](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/Picture4.png)
 
 ---
 
