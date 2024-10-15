@@ -34,7 +34,7 @@ This project demonstrates the implementation of a CI/CD pipeline using Jenkins w
 ## Detailed Setup Instructions
 
 ### 1. Forking the Repository
-- Start by forking the original repository from [Original Repo Owner's GitHub](URL_TO_ORIGINAL_REPO).
+- Start by forking the original repository from [Original Repo Owner's GitHub](https://github.com/ravi2krishna/lms).
 - Clone your forked repository to make local changes.
 
 ### 2. Jenkins Job Configuration

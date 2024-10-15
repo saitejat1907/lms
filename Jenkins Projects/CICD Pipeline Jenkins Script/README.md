@@ -15,7 +15,7 @@ This project demonstrates the implementation of a CI/CD pipeline using Jenkins w
 - **Modifications and Customizations**: The forked repository has been customized to implement a CI/CD pipeline that includes additional integrations with SonarQube, Nexus, and deployment strategies.
 
 ## Link to Documentation
-For a detailed step-by-step approach to building the project, refer to the [Project Documentation](https://github.com/saitejat1907/lms/result.docx).
+For a detailed step-by-step approach to building the project, refer to the [Project Documentation](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script/Documentation.docx).
 
 ---
 
@@ -64,13 +64,15 @@ Better illustrate the pipeline workflow and results.
 
 - **Commands used and Results**:
 
-  ![Commands for sonarqube](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/Picture1.png)
+  ![Jenkinsfile](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script/Images/Picture1.png)
 
-  ![email notification](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/Picture2.png)
+  ![Console Output](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script/Images/Picture2.png)
 
-  ![Nexus repo Upload](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/Picture3.png)
+  ![SonarQube Analysis](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script/Images/Picture3.png)
 
-  ![Nexus Repo Download](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/Picture4.png)
+  ![Nexus Repo Storing Artifacts](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script/Images/Picture4.png)
+
+  ![Pipeline Execution Result](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script/Images/Picture5.png)
 
 ---
 
