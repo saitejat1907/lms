@@ -55,8 +55,8 @@ This project demonstrates the implementation of a CI/CD pipeline using Jenkins w
 
 ---
 
-## Pipeline & Result ScreenShots
-Feel free to add any images or diagrams that better illustrate the pipeline and workflow.
+## Images & Diagrams
+Better illustrate the pipeline workflow and results.
 
 - **Jenkins Pipeline**:
 
