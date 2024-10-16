@@ -18,8 +18,8 @@ This project demonstrates a Dockerized 3-tier architecture for an application co
 ## Docker Hub
 The Docker images for both the backend and frontend are available on Docker Hub:
 
-- **Backend Docker Image**: [Backend Image on Docker Hub](LINK_TO_BACKEND_DOCKER_IMAGE)
-- **Frontend Docker Image**: [Frontend Image on Docker Hub](LINK_TO_FRONTEND_DOCKER_IMAGE)
+- **Backend Docker Image**: [Backend Image on Docker Hub](https://hub.docker.com/repository/docker/saiteja19799/lms/general)
+- **Frontend Docker Image**: [Frontend Image on Docker Hub](https://hub.docker.com/repository/docker/saiteja19799/lms-fe/general)
 
 ---
 
@@ -31,6 +31,10 @@ Fork the original repository and clone it to your local machine.
 ```bash
 git clone https://github.com/yourusername/your-forked-repo.git
 ```
+- **Jenkins Pipeline**:
+
+  ![Jenkins Pipeline Diagram](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/pipeline1.png)
+
 ### 2. Build and Run Docker Containers
 To build and run the Docker containers for the backend and frontend, follow the steps below:
 
@@ -61,4 +65,4 @@ docker run --name postgres-db -e POSTGRES_PASSWORD=yourpassword -d postgres
 ---
 
 ### Acknowledgments
-This project was based on the source code from [Original Repo Owner's GitHub](URL_TO_ORIGINAL_REPO), with additional modifications to create a Dockerized 3-tier application.
+This project was based on the source code from [Original Repo Owner's GitHub](https://github.com/ravi2krishna/lms), with additional modifications to create a Dockerized 3-tier application.
