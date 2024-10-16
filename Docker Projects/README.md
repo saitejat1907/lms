@@ -59,7 +59,31 @@ docker run --name postgres-db -e POSTGRES_PASSWORD=yourpassword -d postgres
 
 - **Database Configuration**:
 
-  ![Database Configuration](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/pipeline1.png)
+  ![Database Configuration](https://github.com/saitejat1907/lms/blob/main/Docker%20Projects/Images/Picture1.png)
+
+- **Building Backend Image**:
+
+  ![Building Backend Image](https://github.com/saitejat1907/lms/blob/main/Docker%20Projects/Images/Picture2.png)
+
+- **Creating a container f0r Backend LMS**:
+
+  ![Creating a container f0r Backend LMS](https://github.com/saitejat1907/lms/blob/main/Docker%20Projects/Images/Picture3.png)
+
+- **Testing Backend Image**:
+
+  ![Testing Backend Image](https://github.com/saitejat1907/lms/blob/main/Docker%20Projects/Images/Picture4.png)
+
+- **Backend Image Testing Result**:
+
+  ![Backend Image Testing Result](https://github.com/saitejat1907/lms/blob/main/Docker%20Projects/Images/Picture5.png)
+
+- **Building Frontend Image**:
+
+  ![Database Configuration](https://github.com/saitejat1907/lms/blob/main/Docker%20Projects/Images/Picture6.png)
+
+- **Frontend Image Testing Result**:
+
+  ![Database Configuration](https://github.com/saitejat1907/lms/blob/main/Docker%20Projects/Images/Picture7.png)
 
 ---
 
