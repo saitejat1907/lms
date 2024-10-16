@@ -31,7 +31,7 @@ Fork the original repository and clone it to your local machine.
 ```bash
 git clone https://github.com/yourusername/your-forked-repo.git
 ```
-- **Jenkins Pipeline**:
+- **Jenkins Pi**:
 
   ![Jenkins Pipeline Diagram](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/pipeline1.png)
 
@@ -54,6 +54,12 @@ You can run the Postgres database container using the following command:
 ```bash
 docker run --name postgres-db -e POSTGRES_PASSWORD=yourpassword -d postgres
 ```
+
+---
+
+- **Database Configuration**:
+
+  ![Database Configuration](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION/pipeline1.png)
 
 ---
 
