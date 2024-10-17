@@ -10,7 +10,7 @@ This project involves dockerizing an e-commerce web application primarily built 
 - **Testing Multiple Versions**: Different versions of the application were tested by running containers from each image, ensuring consistency and compatibility.
 
 ## Link to Documentation
-For a detailed step-by-step approach to building the project, refer to the [Project Documentation](https://github.com/saitejat1907/lms/blob/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script/Documentation.docx).
+For a detailed step-by-step approach to building the project, refer to the [Project Documentation](https://github.com/saitejat1907/lms/blob/main/Docker%20Projects/ecomm%20Dockerization/Documentation.docx).
 
 ## Docker Hub
 The Docker images for the different versions of the e-commerce application are available on Docker Hub:
